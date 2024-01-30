@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fat Bastard Burrito",
+                "marker-color": "#1b2ebb",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [-79.39447351425243, 43.658807626747574],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fat Bastard Burrito",
+                "marker-color": "#bb1b2e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [-79.3956079141077, 43.658560690618884],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lebanese Garden",
+                "marker-color": "#1b2ebb",
+                "marker-size": "big"
+            },
+            "geometry": {
+                "coordinates": [-79.40454915187584, 43.65725094059212],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Master's Cafeteria",
+                "marker-color": "#bb1b2e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [-79.40230634661201, 43.66716408547589],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald's",
+                "marker-color": "#bb1b2e",
+                "marker-size": "big"
+            },
+            "geometry": {
+                "coordinates": [-79.39525439533853, 43.66864003653393],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route 1",
+                "marker-color": "#bb1b2e",
+                "marker-size": "big"
+            },
+            "geometry": {
+                "coordinates": [
+                    [-79.39081683061356, 43.65994317942801],
+                    [-79.3962317992886, 43.6587460711707],
+                    [-79.39695124915531, 43.65976955951112]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route 2"
+            },
+            "geometry": {
+                "coordinates": [
+                    [-79.39083489493395, 43.65994188561382],
+                    [-79.39108295102893, 43.660537677178866],
+                    [-79.39213470887118, 43.661072448909664],
+                    [-79.39695244312077, 43.659759735703716]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route 3"
+            },
+            "geometry": {
+                "coordinates": [
+                    [-79.39980521866129, 43.66784903170924],
+                    [-79.40011556983663, 43.66782096995428],
+                    [-79.39693447028904, 43.65978073691048]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gyubee",
+                "marker-color": "#1b2ebb",
+                "marker-size": "big"
+            },
+            "geometry": {
+                "coordinates": [-79.40101894676256, 43.66695271001484],
+                "type": "Point"
+            }
+        }
+    ]
+}
+

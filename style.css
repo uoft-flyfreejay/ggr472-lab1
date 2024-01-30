@@ -1,0 +1,58 @@
+
+/* Header */
+header h1 {
+    color: #8A6D3B; /* Darker beige for headings */
+}
+
+.nav-link {
+    color: #8A6D3B; /* Darker beige for nav links */
+}
+
+
+/* Main content */
+.container {
+    border: 2px solid #8A6D3B;
+    background-color: #fff; /* White background for content */
+    padding: 20px;
+    border-radius: 5px; /* Rounded corners for the container */
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #9A7D0A; /* Gold-like color for primary buttons */
+    border-color: #8A6D3B; /* Darker beige for border */
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#picture {
+    max-width: 500px; /* This will limit the width to 500px or less */
+    max-height: 300px; /* This will limit the height to 300px or less */
+    height: auto; /* This will maintain the aspect ratio */
+    width: auto; /* This will maintain the aspect ratio */
+}
+/* Footer */
+footer {
+    background-color: #e1e1e1; /* Lighter shade for footer */
+    color: #4A4A4A;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Utility classes for text colors */
+.text-primary {
+    color: #9A7D0A; /* Gold-like color */
+}
+
+.text-secondary {
+    color: #8A6D3B; /* Darker beige */
+}
+
